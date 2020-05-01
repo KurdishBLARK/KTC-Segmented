@@ -1,5 +1,5 @@
 # KTC-Segmented
-This repository is the segmented KTC.
+This repository is the sentence segmented KTC.
 It follows the KTC's structure. 
 Each file is the line sigmented form of its counterpart in the raw corpus.
 The segmentation process and related discussions have been presented in a paper entitled 
